@@ -5,11 +5,13 @@ Gemini AI Chat Portal is a smart Django-based application where users can intera
 
 <b>Features</b>
 
-🔐 Login-based Message Limit: Logged-in users can send 35+ messages per day; anonymous users are limited to 15 messages daily.
-💬 AI Chat Interface: Clean chat interface connected to Gemini AI where users can ask questions and get intelligent responses.
-🧠 Chat Title Storage: Only AI-generated chat titles are saved for reference and analysis.
-🧾 Usage Tracking: Message limits are enforced per user (if logged in) or by IP/session (if anonymous).
-👥 User Management: Basic login/logout system for users to register and gain extended access.
+<ul>
+  <li>🔐 <strong>Login-based Message Limit:</strong> Logged-in users can send 35+ messages per day; anonymous users are limited to 15 messages daily.<br></li>
+  <li>💬 <strong>AI Chat Interface:</strong> Clean chat interface connected to Gemini AI where users can ask questions and get intelligent responses.<br></li>
+  <li>🧠 <strong>Chat Title Storage:</strong> Only AI-generated chat titles are saved for reference and analysis.<br></li>
+  <li>🧾 <strong>Usage Tracking:</strong> Message limits are enforced per user (if logged in) or by IP/session (if anonymous).<br></li>
+  <li>👥 <strong>User Management:</strong> Basic login/logout system for users to register and gain extended access.<br></li>
+</ul>
 
 <b>Tech Stack</b>
 
